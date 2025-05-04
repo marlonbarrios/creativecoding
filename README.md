@@ -1,10 +1,4 @@
-## cellular Automata
 
-[Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
-
-[Wolframatic](https://marlonbarrios.github.io/wolframatic/)
-
-[Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
 ## Creative Coding + Clocks
 
@@ -117,6 +111,14 @@
 [Generative Tools for Meta-creation 01](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
 
 [Contemplative digital objects](https://marlonbarrios.github.io/contemplatovedigitalobjects/)
+
+## Cellular Automata
+
+[Wolfram Red](https://marlonbarrios.github.io/wolfram_one_dim/)
+
+[Wolframatic](https://marlonbarrios.github.io/wolframatic/)
+
+[Infinite Cellular Automata](https://marlonbarrios.github.io/infinitecellularautomata/)
 
 ## Sculpting Illusions
 
